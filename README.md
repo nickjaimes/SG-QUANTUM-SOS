@@ -48,3 +48,103 @@ To provide early detection, deep analysis, and orchestrated responses that reduc
 ---
 
 ## 🧠 System Architecture
+
+┌───────────┐
+│ Sensors   │  Satellite / Drones / IoT / Citizen App
+└─────┬─────┘
+│
+┌─────▼─────┐
+│ Eagle Eye │ — real-time anomaly fusion
+└─────┬─────┘
+│
+┌─────▼────────────┐
+│  Trinity AI      │ — personal / temporal / cosmic logic
+└─────┬────────────┘
+│
+┌─────▼────────────┐
+│ Five Elements     │ — wood / fire / earth / metal / water
+└─────┬────────────┘
+│
+┌─────▼────────────┐
+│ Quantum Core     │ — learning + knowledge fusion
+└──────────────────┘
+
+---
+
+## ⚛ Trinity AI — Three Levels of Awareness
+
+| Mode | Purpose |
+|------|---------|
+| **Personal** | Body–Mind–Spirit analysis |
+| **Temporal** | Past–Present–Future simulation |
+| **Cosmic** | Creation–Preservation–Transformation |
+
+---
+
+## 🌿 Five-Elements Coordination
+
+| Element | Function |
+|---------|----------|
+| Wood | Growth, deployment |
+| Fire | Transformation, communication |
+| Earth | Stabilization, logistics |
+| Metal | Structure, protection |
+| Water | Adaptation, mobility |
+
+---
+
+## 🚀 Quick Start
+
+python
+from sg_quantum_sos import SGQuantumSOS
+
+sos = SGQuantumSOS()
+
+event = {
+  "region": "Kanto",
+  "type": "typhoon",
+  "intensity": 4.5,
+  "population": 9_000_000
+}
+
+response = sos.crisis_response_cycle(event)
+print(response)
+
+🔍 Core Classes (Summary)
+
+SGQuantumSOS
+
+Main controller for orchestration
+
+EagleEyeSurveillance
+
+Real-time multi-domain sensing & fusion
+• satellite
+• drone swarm
+• IoT mesh
+• citizen app feeds
+
+TrinityAICortex
+
+Reasoning engine — integrates physical + historical + cosmic inference
+
+FiveElementMatrix
+
+Plans emergency response strategy in five harmonized modes
+
+QuantumNeuralCore
+
+Learns from prior crises → improved future prediction
+
+📡 API Endpoints
+Endpoint
+Description
+/api/v1/surveillance/feed
+Real-time intel ingestion
+/api/v1/consciousness/analyze
+Risk inference
+/api/v1/elements/orchestrate
+Response allocation
+/api/v1/quantum/learn
+Crisis learning
+
