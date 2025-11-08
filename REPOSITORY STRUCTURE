@@ -1,0 +1,14 @@
+sg-quantum-sos/
+├─ src/
+│  ├─ eagle_eye.py
+│  ├─ trinity_ai.py
+│  ├─ five_elements.py
+│  ├─ quantum_core.py
+│  └─ orchestrator.py
+├─ docs/
+│  ├─ architecture.md
+│  ├─ implementation.md
+│  └─ api.md
+├─ tests/
+├─ LICENSE
+└─ README.md
